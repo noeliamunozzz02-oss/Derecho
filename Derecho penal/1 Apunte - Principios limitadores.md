@@ -104,7 +104,6 @@ Los casos introductorios cumplen una sola misión: obligar a pensar el castigo p
 El PDF presenta el principio de legalidad mediante la fórmula clásica según la cual **no hay delito ni pena sin ley**. A partir de ahí ordena cuatro garantías: **ley estricta, ley escrita, ley certera y ley previa**.
 
 En términos simples, el principio de legalidad exige que el castigo penal solo sea posible cuando existe una norma previa, escrita, suficientemente determinada y aplicada sin analogías prohibidas.
-<img width="812" height="205" alt="ScreenShot Tool -20260412134337" src="https://github.com/user-attachments/assets/ccbdb4f2-90b2-472d-a405-c314052d43f0" />
 
 ### Definición y fundamento general
 
