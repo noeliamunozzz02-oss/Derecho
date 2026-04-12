@@ -120,7 +120,7 @@ El principio de legalidad opera como una barrera frente a la arbitrariedad estat
 
 > La Regla General: Tempus regit actum (el tiempo rige el acto)
 En materia penal, **la regla general es que los delitos se juzgan según la ley que estaba vigente al momento de cometerse el hecho.**
-Si tú cometes una conducta hoy, y esa conducta tiene una pena de 3 años, el Estado no puede cambiar las reglas del juego a mitad del proceso para castigarte más severamente. **Esto garantiza la seguridad jurídica**: las personas deben saber de antemano a qué consecuencias se exponen. La excepción es La retroactvidad favorable (principio pro reo), si la nueva ley es favorable para el imputado, se aplica retroactivamente (Durante el juicio o incluso despues de ejecutoriada la sentencia) Si la ley elimina el delito, el condenado debe quedar libre. Si la ley baja la pena, el tribunal debe modificar la sentencia de oficio o a petición de parte y rebajar los años según nueva escala. **SIEMPRE EN BENEFICIO.**
+Si tú cometes una conducta hoy, y esa conducta tiene una pena de 3 años, el Estado no puede cambiar las reglas del juego a mitad del proceso para castigarte más severamente. **Esto garantiza la seguridad jurídica**: las personas deben saber de antemano a qué consecuencias se exponen. La excepción es La retroactividad favorable (principio pro reo), si la nueva ley es favorable para el imputado, se aplica retroactivamente (Durante el juicio o incluso despues de ejecutoriada la sentencia) Si la ley elimina el delito, el condenado debe quedar libre. Si la ley baja la pena, el tribunal debe modificar la sentencia de oficio o a petición de parte y rebajar los años según nueva escala. **SIEMPRE EN BENEFICIO.**
 
 ### 1. Garantía de ley estricta
 
