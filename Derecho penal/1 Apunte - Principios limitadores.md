@@ -510,6 +510,10 @@ En una riña de muchas personas, Carlos resulta gravemente herido, pero no se lo
 - **Culpabilidad:** la participación en un contexto violento no reemplaza la necesidad de probar imputación subjetiva y hecho propio.
 - **Prohibición de responsabilidad objetiva:** estar en la riña no equivale automáticamente a ser autor del resultado lesivo concreto.
 
+<img width="804" height="156" alt="ScreenShot Tool -20260412153247" src="https://github.com/user-attachments/assets/4cad43b1-ec1c-4059-99a1-e7ba3b3a4e19" />
+
+El Art. anterior, demuestra que en la practica el legislador sacrifica la Presunción de inocencia para que un hecho violento no quede impune. Hay una coautoría, donde hubo un acuerdo previo entre los particimantes del acto y que se prestaron apoyo mutuo, actuando como un solo cuerpo. El resultado de uno se les imputa a todos. **Se cae en una responsabilidad objetiva disfrazada**.
+
 #### Tesis de estudio
 
 Este caso es casi un manual de lo que NO puede hacer un sistema penal respetuoso del principio de culpabilidad.
