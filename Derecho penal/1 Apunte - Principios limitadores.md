@@ -352,14 +352,16 @@ El propio material deja abierta la pregunta de si este principio opera de forma 
 
 ### 4. Presunción de inocencia
 
-La presunción de inocencia cumple una función estructural: **no se puede presumir de derecho la responsabilidad penal**. Si el Estado acusa, el Estado debe probar.
+La presunción de inocencia cumple una función estructural: **no se puede presumir de derecho la responsabilidad penal**. Si el Estado acusa, el Estado debe probar (La carga de la prueba) El imputado no tiene el deber de probar su inocencia, el silencio del imputado no puede ser usado en su contra. Es una exigencia probatoria. La presunción opera durante todo el proceso como un escudo. 
 
 En el contexto del PDF, esta garantía se conecta con dos exigencias:
 
-- la necesidad de probar dolo o culpa;
-- la prohibición de condenar sobre la base de fórmulas de responsabilidad objetiva.
+- la necesidad de probar dolo o culpa (responsabilidad subjetiva);
+- la prohibición de condenar sobre la base de fórmulas de responsabilidad objetiva. No se puede castigar a alguien simplemente porque el "resultado ocurrió".
 
-> [!NOTE] Complemento externo: conviene distinguir dos planos. La **CADH, art. 8.2**, y el **PIDCP, art. 14.2**, formulan la presunción de inocencia como garantía internacional autónoma. Eso refuerza la lectura del PDF según la cual la culpabilidad y la presunción de inocencia están estrechamente conectadas, pero no son exactamente lo mismo: una funciona como principio material de imputación y la otra como garantía procesal frente a la acusación estatal. **Fuente:** OEA, CADH, art. 8.2; OHCHR, ICCPR, art. 14.2.
+El estado debe de probar que el imputado actuó con dolo o imprudencia.
+
+> El principio de culpabilidad y la presunción de inocencia están estrechamente conectadas, pero no son exactamente lo mismo: una funciona como principio material de imputación y la otra como garantía procesal frente a la acusación estatal.
 
 ### Síntesis del principio de culpabilidad
 
