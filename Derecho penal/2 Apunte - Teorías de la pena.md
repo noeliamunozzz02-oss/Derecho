@@ -2,7 +2,7 @@
 
 > Base primaria de este apunte: `2Teorias de la Pena - Tagged.pdf`.
 >
-> Regla editorial: el desarrollo normal del texto reconstruye y ordena el contenido del PDF. Todo complemento, precisión o corrección tomada desde internet aparece marcado como **Fuente externa** con su procedencia y URL.
+
 
 ---
 
