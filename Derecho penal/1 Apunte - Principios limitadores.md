@@ -333,7 +333,9 @@ Se presenta como ejemplo para preguntar si castiga verdaderamente un hecho o si 
 
 ##### b) Agravante por motivación interna
 
-La agravante del art. 12 N° 21 CP sirve para discutir hasta qué punto el sistema considera motivaciones internas del autor. El problema de fondo es si la agravación se justifica por un mayor desvalor del hecho o si castiga la interioridad del sujeto.
+La agravante 21, del listado taxativo de agravantes del art. 12 N° 21 CP sirve para discutir hasta qué punto el sistema considera motivaciones internas del autor. El problema de fondo es si la agravación se justifica por un mayor desvalor del hecho o si castiga la interioridad del sujeto.
+
+<img width="836" height="72" alt="ScreenShot Tool -20260412135457" src="https://github.com/user-attachments/assets/b0582731-e6ca-436e-93e5-529c5dc258a6" />
 
 ##### c) Enriquecimiento injustificado del empleado público
 
