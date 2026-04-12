@@ -104,6 +104,7 @@ Los casos introductorios cumplen una sola misión: obligar a pensar el castigo p
 El PDF presenta el principio de legalidad mediante la fórmula clásica según la cual **no hay delito ni pena sin ley**. A partir de ahí ordena cuatro garantías: **ley estricta, ley escrita, ley certera y ley previa**.
 
 En términos simples, el principio de legalidad exige que el castigo penal solo sea posible cuando existe una norma previa, escrita, suficientemente determinada y aplicada sin analogías prohibidas.
+<img width="812" height="205" alt="ScreenShot Tool -20260412134337" src="https://github.com/user-attachments/assets/ccbdb4f2-90b2-472d-a405-c314052d43f0" />
 
 ### Definición y fundamento general
 
@@ -151,6 +152,8 @@ En el ejemplo de la Ley de Mercado de Valores, la defensa sostiene que la conduc
 Si te ponen un caso donde la conducta “se parece mucho” a la descrita en la ley, NO te precipites. El punto jurídico no es si el caso parece merecer castigo, sino si **entra realmente en el sentido literal posible del tipo**.
 
 ### 2. Garantía de ley escrita
+
+<img width="812" height="205" alt="ScreenShot Tool -20260412134337" src="https://github.com/user-attachments/assets/d11d88a9-dc99-40b6-ae7a-2572ddb9b6b9" />
 
 #### Idea central
 
