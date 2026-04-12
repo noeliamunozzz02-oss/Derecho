@@ -1,10 +1,6 @@
 # Apunte — Las medidas de seguridad
 
-## Portada
 
-**Tema:** Las medidas de seguridad  
-**Base primaria obligatoria:** `3Las medidas de seguridad - Tagged.pdf`  
-**Enfoque:** apunte de estudio pedagógico, ordenado y preparado para auditoría posterior.  
 
 ---
 
