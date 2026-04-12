@@ -83,7 +83,7 @@ Un padre descubre que alguien dañó gravemente a su hijo y, en vez de acudir al
 
 ### 4. La IA y la decisión de vida o muerte
 
-El caso del vehículo autónomo que decide entre matar a varios peatones o a su ocupante instala otra pregunta: **si el sistema actúa, quién responde penalmente**. El programador, el fabricante, el operador, nadie, varios. Con esto el PDF recuerda que el Derecho penal no puede desprenderse ni del hecho ni de la imputación subjetiva.
+El caso del vehículo autónomo que decide entre matar a varios peatones o a su ocupante instala otra pregunta: **si el sistema actúa, quién responde penalmente**. El programador, el fabricante, el operador, nadie, varios. Con esto el PDF recuerda que el Derecho penal no puede desprenderse ni del hecho ni de la imputación subjetiva (consiste en valorar y si el sujeto actuo con voluntad y conocimiento, si conoce el riesgo de su conducta)
 
 ### Síntesis de apertura
 
