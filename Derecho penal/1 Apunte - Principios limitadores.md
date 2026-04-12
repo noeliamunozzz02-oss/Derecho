@@ -1,4 +1,4 @@
-# Apunte final — Principios limitadores del *ius puniendi*
+# Apunte  — Principios limitadores del *ius puniendi*
 
 > Base primaria de este apunte: `1. Principios limitadores. Iván Navas - Tagged.pdf`.
 >
