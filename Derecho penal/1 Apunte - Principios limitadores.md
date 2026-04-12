@@ -118,7 +118,9 @@ El principio de legalidad opera como una barrera frente a la arbitrariedad estat
 | Constitucional | Art. 19 N° 3 incs. 8° y 9° CPR | ley previa y exigencia de descripción expresa |
 | Legal | Arts. 1 y 18 CP | delito como conducta penada por la ley y retroactividad favorable |
 
-> [!NOTE] Complemento externo: la Convención Americana distingue expresamente en su **art. 9** el “Principio de Legalidad y de Retroactividad”, mientras que el PIDCP lo hace en su **art. 15.1**. Ambas normas oficiales refuerzan la idea de que no puede imponerse una pena más grave que la aplicable al tiempo del hecho y que la ley posterior más favorable beneficia al imputado. **Fuente:** OEA, Convención Americana sobre Derechos Humanos, art. 9; OHCHR, International Covenant on Civil and Political Rights, art. 15.1.
+> La Regla General: Tempus regit actum (el tiempo rige el acto)
+En materia penal, **la regla general es que los delitos se juzgan según la ley que estaba vigente al momento de cometerse el hecho.**
+Si tú cometes una conducta hoy, y esa conducta tiene una pena de 3 años, el Estado no puede cambiar las reglas del juego a mitad del proceso para castigarte más severamente. **Esto garantiza la seguridad jurídica**: las personas deben saber de antemano a qué consecuencias se exponen.
 
 ### 1. Garantía de ley estricta
 
