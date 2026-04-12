@@ -1,5 +1,4 @@
-<img width="831" height="200" alt="ScreenShot Tool -20260412135841" src="https://github.com/user-attachments/assets/956289c5-20a0-48d8-864a-244d15c7f592" />
-<img width="831" height="200" alt="ScreenShot Tool -20260412135841" src="https://github.com/user-attachments/assets/3af787be-6a19-4dc9-8fd0-f807b11d34ba" />
+
 # Apunte  — Principios limitadores del *ius puniendi*
 
 > Base primaria de este apunte: `1. Principios limitadores. Iván Navas - Tagged.pdf`.
