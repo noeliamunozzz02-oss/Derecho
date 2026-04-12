@@ -89,7 +89,7 @@ El caso del vehículo autónomo que decide entre matar a varios peatones o a su 
 
 Los casos introductorios cumplen una sola misión: obligar a pensar el castigo penal desde sus límites. No basta con querer sancionar; hay que justificar **por qué**, **cuándo** y **hasta dónde** puede intervenir el Estado.
 
-> [!WARNING] Cuidado con confundir
+> [!OJO] Cuidado con confundir
 > Estos casos iniciales no están desarrollados todavía como soluciones dogmáticas cerradas. Funcionan, sobre todo, como puertas de entrada al problema de la legitimidad del castigo.
 
 ### Notas de examen
