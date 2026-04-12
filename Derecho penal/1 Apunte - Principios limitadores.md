@@ -1,3 +1,5 @@
+<img width="831" height="200" alt="ScreenShot Tool -20260412135841" src="https://github.com/user-attachments/assets/956289c5-20a0-48d8-864a-244d15c7f592" />
+<img width="831" height="200" alt="ScreenShot Tool -20260412135841" src="https://github.com/user-attachments/assets/3af787be-6a19-4dc9-8fd0-f807b11d34ba" />
 # Apunte  — Principios limitadores del *ius puniendi*
 
 > Base primaria de este apunte: `1. Principios limitadores. Iván Navas - Tagged.pdf`.
@@ -340,6 +342,8 @@ La agravante 21, del listado taxativo de agravantes del art. 12 N° 21 CP sirve 
 ##### c) Enriquecimiento injustificado del empleado público
 
 El art. 241 bis CP aparece en el PDF como un punto de tensión en materia de presunción de inocencia, hecho propio y culpabilidad. La preocupación es clara: que el reproche penal no termine descansando en una inversión impropia de la carga probatoria o en una sospecha basada en estatus.
+
+<img width="831" height="200" alt="ScreenShot Tool -20260412135841" src="https://github.com/user-attachments/assets/12613c74-5e1e-457e-876c-0d5c6a422ef7" />
 
 ### 3. Culpabilidad como límite de la pena
 
