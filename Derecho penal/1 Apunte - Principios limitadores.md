@@ -376,9 +376,9 @@ El principio de culpabilidad impide tres desviaciones graves del poder punitivo:
 
 ### Notas de examen
 
-- Si te preguntan por la consecuencia principal del principio de culpabilidad, responde: **la exclusión de la responsabilidad objetiva**.
-- Si te preguntan por responsabilidad por el hecho propio, contrapón siempre **Derecho penal del hecho** vs. **Derecho penal de autor**.
-- Si te preguntan por presunción de inocencia, vincúlala con **carga de la prueba** y **prohibición de presumir responsabilidad penal**.
+- Si te preguntan por la consecuencia principal del principio de culpabilidad, responde: **la exclusión de la responsabilidad objetiva, o sea, nadie puede ser castigado por el mero resultado fortuito de sus actos (lo objetivo). La responsabilidad subjetiva es exigida para castigar**.
+- Si te preguntan por responsabilidad por el hecho propio (en la conducta externa realizada y no en caracteristicas personales superficiales), contrapón siempre **Derecho penal del hecho (lo que HIZO)** vs. **Derecho penal de autor (lo que ES)**.
+- Si te preguntan por presunción de inocencia, vincúlala con **carga de la prueba** (quien acusa, el Estado) y **prohibición de presumir responsabilidad penal** (Nada de suposiciones, la culpabilidad es un hecho que debe ser probado).
 
 ---
 
