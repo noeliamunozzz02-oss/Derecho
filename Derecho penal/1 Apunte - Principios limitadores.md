@@ -388,7 +388,7 @@ El tercer gran bloque del PDF afirma que el Derecho penal debe intervenir de man
 
 ### Fundamento general
 
-El castigo penal es la herramienta más intensa del Estado. Por eso solo se justifica frente a conductas capaces de **poner en peligro o lesionar gravemente un bien jurídico**.
+El castigo penal es la herramienta más intensa del Estado. Por eso solo se justifica frente a conductas capaces de **poner en peligro o lesionar gravemente un bien jurídico** (Vida e intregridad fisica/psiquica, Libertad ambulatoria, sexual y de expresión, Propiedad y Honor).
 
 ### 1. Aplicación restrictiva y excepcional
 
