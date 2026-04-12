@@ -212,6 +212,8 @@ Según el PDF, una ley es más favorable cuando:
 2. disminuye la pena o rebaja el marco penal;
 3. elimina agravantes o incorpora atenuantes;
 4. permite penas sustitutivas.
+   
+<img width="821" height="284" alt="ScreenShot Tool -20260412134006" src="https://github.com/user-attachments/assets/1774d4b0-5e09-4374-841e-2c7665c9fa5a" />
 
 #### Caso streamer
 
