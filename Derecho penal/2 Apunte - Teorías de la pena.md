@@ -1,7 +1,5 @@
 # Apunte  — Teorías de la pena
 
-> Base primaria de este apunte: `2Teorias de la Pena - Tagged.pdf`.
->
 
 
 ---
