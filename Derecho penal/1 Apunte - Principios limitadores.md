@@ -179,6 +179,8 @@ Este punto NO elimina la exigencia de ley escrita; solo muestra que, en impruden
 La conducta sancionada debe estar **expresamente descrita** en una norma con rango legal. El PDF subraya que ni decretos ni otras normas inferiores pueden contener por sí solos el supuesto de hecho del delito.
 
 #### Normas penales en blanco
+Es una ley que está incompleta. Es como si el Código Penal dijera: "Queda prohibido lo que diga el Ministerio de Salud".
+La ley pone el castigo (la cárcel), pero no te dice exactamente qué conducta está prohibida; para eso te manda a leer otro papel.
 
 El material distingue entre:
 
