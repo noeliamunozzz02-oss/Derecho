@@ -189,8 +189,8 @@ El material distingue entre:
 
 | Tipo | Descripción | Problema principal |
 |---|---|---|
-| Norma penal en blanco propia | remite a otra norma de igual rango legal (Leer otra pagina del mismo codigo) | menor tensión con legalidad, porque la conducta sigue estando definida por una ley (congreso)|
-| Norma penal en blanco impropia | remite a una norma infralegal, como reglamentos de un Ministerio o decretos | riesgo de vulnerar reserva legal y *lex certa* (ejecutivo) |
+| Norma penal en blanco propias | Aquellas en que lo castigado es remitido a otra norma con jerarquía infralegal (Reglamentos) | riesgo de vulnerar reserva legal y *lex certa* (ejecutivo) |
+| Norma penal en blanco impropia | Aquellas en que lo castigado es remitido a otra norma, pero con igual rango de ley (Dirigir a otra pagina del codigo o a una Ley) | menor tensión con legalidad, porque la conducta sigue estando definida por una ley (congreso) |
 
 #### Caso Beatriz Molina / artículo 315 CP
 
