@@ -442,7 +442,7 @@ La proporcionalidad controla el exceso. Aun cuando el Estado pueda castigar, no 
 
 ### 7. *Non bis in idem*
 
-El material lo define como la prohibición de juzgar y/o sancionar dos veces por un mismo hecho. Su fundamento se ubica en:
+El material lo define como la prohibición de juzgar y/o sancionar dos veces por un mismo hecho. (ejemplo: dos procesos penales) Su fundamento se ubica en:
 
 - la **proporcionalidad**, porque una doble sanción puede producir exceso;
 - la **seguridad jurídica**, porque la cosa juzgada debe ofrecer estabilidad.
